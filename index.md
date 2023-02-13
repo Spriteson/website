@@ -1,17 +1,8 @@
 <head>
-  <style>
-    h1 {
-      text-align: center;
-    }
-  </style>
-  <style>
-    h2 {
-      text-align: center;
-    }
-  </style>
+  <h1 style="font-size:300%;">MInG: Master Input Gadget</h1>
+  <h2 style="font-size:160%;">yron Chan, Daniel Pak, Duanhui Li</h1>
 </head>
   
 <body>
-  <h1>MInG: Master Input Gadget</h1>
-  <h1>Byron Chan, Daniel Pak, Duanhui Li</h1>
+
 </body>
