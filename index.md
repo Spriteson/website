@@ -1,3 +1,11 @@
-<p align="center">
-# MInG: Master Input Gadget
-</p>
+<head>
+  <style>
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+  
+<body>
+  <h1>This is a centered and header string</h1>
+</body>
