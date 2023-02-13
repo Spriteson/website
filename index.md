@@ -1,3 +1,3 @@
-#<p align="center">
-MInG: Master Input Gadget
+<p align="center">
+#MInG: Master Input Gadget
 </p>
